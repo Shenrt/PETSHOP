@@ -1,0 +1,95 @@
+body  
+{  
+background-image:url("https://static.wixstatic.com/media/d6a9906c94be4282a487b3e92993a22f.png/v1/fit/w_1000%2Ch_1000%2Cal_c/file.png");  
+background-repeat: no-repeat;
+background-size: cover;
+background-position-y: -100px; 
+}  
+.h
+{
+font-family: Segoe UI;}
+.h1 
+{
+    font-size: 20;
+position:fixed; left:280px; top:420px;
+}
+.email{
+    font-size: 23;
+    position:fixed; left:80px; top:510px;
+}
+.password{
+    font-size: 23;
+    position:fixed; left:36px; top:550px;
+}
+input[type=email]{
+    width: 400px;
+    padding: 7px 20px;
+    margin: 8px 0;
+    border: 2px solid #ccc;
+    border-radius: 13px;
+  }
+  input[type=password] {
+    width: 400px;
+    padding: 7px 20px;
+    margin: 8px 0;
+    border: 2px solid #ccc;
+    border-radius: 13px;}
+.button1{
+    position:fixed; left:160px; top:600px;
+}
+
+button {
+    cursor: pointer;
+    font-size: 24px;
+    padding: 0;
+    border: none;
+    background: none;
+    text-align: center;
+    
+}
+.h2 
+{
+    font-size: 20;
+position:fixed; right:293px; top:420px;
+}
+.h3 
+{
+    font-size: 20;
+position:fixed; right:740px; top:500px;
+}
+.forget{ position:fixed; left:420px; top:594px;
+    font-size: 14;
+}
+.twitter {
+    position:fixed; right:520px; top:510px;
+}
+.fb {
+    position:fixed; right:300px; top:490px;
+}
+.insta {
+    position:fixed; right:420px; top:510px;
+}
+.google {
+    position:fixed; right:220px; top:510px;
+}
+.CA {
+    position:fixed; right:440px; top:640px;
+    background-color: rgb(255, 226, 205);
+    padding: 6px;
+    border-radius: 12px;
+    
+   }
+   .CU {
+    position:fixed; right:260px; top:640px;
+    background-color: rgb(255, 226, 205);
+    padding: 6px;
+    border-radius: 12px;
+    
+   }
+   .HL {
+    position:fixed; right:150px; top:640px;
+    background-color: rgb(255, 226, 205);
+    padding: 6px;
+    border-radius: 12px;
+    
+   }
